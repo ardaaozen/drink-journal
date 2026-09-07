@@ -3,7 +3,7 @@
 <h1 align="center">Drink Journal: Memories</h1>
 
 <p align="center">
-  <strong>A private iPhone diary for recording drinks, alcohol-free days and the memories around them.</strong>
+  <strong>A personal iPhone diary for recording drinks, alcohol-free days and the memories around them.</strong>
 </p>
 
 <p align="center">
