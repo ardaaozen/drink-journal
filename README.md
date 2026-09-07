@@ -1,53 +1,48 @@
-# Drink Journal: Memories
+![Drink Journal](assets/drink-journal-hero.png)
 
-> A private drink diary for keeping track of drinks, alcohol-free days, and the memories around them.
+<h1 align="center">Drink Journal: Memories</h1>
 
-[English](#english) · [Türkçe](#türkçe)
+<p align="center">
+  <strong>A private iPhone diary for recording drinks, alcohol-free days and the memories around them.</strong>
+</p>
 
-## English
+<p align="center">
+  <img alt="Platform" src="https://img.shields.io/badge/Platform-iPhone-111111?logo=apple&logoColor=white">
+  <img alt="Storage" src="https://img.shields.io/badge/Diary-On%20Device-2F855A">
+  <img alt="Tracking" src="https://img.shields.io/badge/Tracking-Neutral-6554C0">
+  <img alt="Purchase" src="https://img.shields.io/badge/Pro-One%20Time-B08A45">
+</p>
 
-Drink Journal: Memories is an iPhone app for privately recording drinks and the moments around them. It helps users build a personal diary without presenting itself as a measurement or safety tool.
+## Product at a glance
 
-### What it does
+| | |
+| --- | --- |
+| **Purpose** | Keep a personal record of drinks and the moments connected to them. |
+| **Timeline** | A visual calendar brings entries and alcohol-free days into one view. |
+| **Memories** | Optional notes, photos and share-ready portrait or landscape cards. |
+| **Data approach** | Diary content stays on the user’s device. |
 
-- Records drinks from a clear, localized drink list
-- Organizes entries in a visual calendar
-- Marks alcohol-free days
-- Saves optional notes and photo memories
-- Shows neutral summaries such as servings, volume, and session duration
-- Creates portrait or landscape cards that are ready to share
-- Keeps diary data private on the user's device
+## The journal flow
 
-### Important
+1. **Record** — choose from a clear, localized drink list.
+2. **Remember** — add an optional note or photo.
+3. **Review** — browse the calendar and neutral summaries.
+4. **Share** — create a portrait or landscape memory card.
+
+## Highlights
+
+- Localized drink catalogue and quick entry creation
+- Visual calendar with alcohol-free day markers
+- Optional notes and photo memories
+- Neutral summaries for servings, volume and session duration
+- Share-ready journal cards
+- Multiple language support
+- Optional one-time Lifetime Pro purchase
+
+## Important
 
 Drink Journal does **not** calculate blood alcohol concentration (BAC/promille), measure impairment, provide medical or legal advice, or determine whether someone is fit to drive.
 
-The app is available in multiple languages and offers an optional one-time Lifetime Pro purchase.
-
----
-
 ## Türkçe
 
-Drink Journal: Memories, içkileri ve onlara eşlik eden anıları özel olarak kaydetmek için geliştirilmiş bir iPhone uygulamasıdır. Bir ölçüm veya güvenlik aracı değildir; kişisel günlük deneyimine odaklanır.
-
-### Ne işe yarar?
-
-- Anlaşılır ve yerelleştirilmiş içki listesinden kayıt oluşturur
-- Kayıtları görsel bir takvimde düzenler
-- İçki içilmeyen günlerin işaretlenmesini sağlar
-- İsteğe bağlı notları ve fotoğraflı anıları saklar
-- Porsiyon, hacim ve oturum süresi gibi tarafsız özetler sunar
-- Paylaşıma hazır dikey veya yatay günlük kartları oluşturur
-- Günlük verilerini kullanıcının cihazında özel tutar
-
-### Önemli bilgi
-
-Drink Journal; kan alkol oranı/promil hesaplamaz, sarhoşluk ölçümü yapmaz, tıbbi veya hukuki tavsiye vermez ve araç kullanmaya uygunluğu değerlendirmez.
-
-Uygulama birden fazla dili destekler ve isteğe bağlı, tek seferlik Lifetime Pro satın alımı sunar.
-
----
-
-This public repository contains product information only. The application source code is maintained privately.
-
-Bu herkese açık depo yalnızca ürün bilgilerini içerir. Uygulamanın kaynak kodu özel bir depoda tutulmaktadır.
+Drink Journal: Memories; içkileri, içki içilmeyen günleri ve bunlara eşlik eden anıları kişisel bir takvimde kaydetmeye odaklanır. Notlar, fotoğraflar ve tarafsız özetler sunar; promil hesabı ya da araç kullanma uygunluğu değerlendirmesi yapmaz.
